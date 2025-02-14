@@ -764,5 +764,5 @@ footer .copyright-footer{
     border-radius: 50%;
     background: conic-gradient(#eea003, #00ffff, #ff00ff);
     animation: rotateRing 6s linear infinite;
-    z-index: -1;
+    z-index: 100;
 }
